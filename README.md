@@ -4,7 +4,6 @@ Library:
   - axios
   - @material-ui/core
   - @material-ui/icons
-  - react-select
 
 ### Install
 ```sh
